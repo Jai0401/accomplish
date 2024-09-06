@@ -1,4 +1,4 @@
-# Accomplish
+# Accomplish(Ongoing...)
 
 I built this site to polish my frontend skills and learn modern CSS techniques, focusing on responsive design using **Tailwind CSS** and animations with **Framer Motion**.
 
